@@ -297,8 +297,8 @@ section h2 span {
 		margin-bottom: 20px;
 	}
 	#gallery li{
-		float: none;
-		width: 100%;
+		float: left;
+		width: 50%;
 	}
 	#map iframe{
 		width: 96% !important;
